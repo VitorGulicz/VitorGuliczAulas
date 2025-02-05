@@ -5,3 +5,4 @@
 #Signo:Virgem
 #Gosto de ler livros
 #Gosto de ver series
+#Eu amo aula de programação de aplicativo
