@@ -3,6 +3,6 @@ y = "Hello"
 z = 3.45
 if z == 3.45 or y == "Hello":
     x = x + 1
-    y = y + "World" #concatenação de strings
-    print(x)
-    print(y)
+    y = y + " World" #concatenação de strings
+print(x)
+print(y)
