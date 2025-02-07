@@ -1,8 +1,8 @@
-#Vitor Daniel
-#Idade:16
-#Gosto de jogar no xbox series S
-#Jogo Valorant e Marvel Rivals
-#Signo:Virgem
-#Gosto de ler livros
-#Gosto de ver series
-#Eu amo aula de programação de aplicativo
+x = 34 - 23
+y = "Hello"
+z = 3.45
+if z == 3.45 or y == "Hello":
+    x = x + 1
+    y = y + "World" #concatenação de strings
+    print(x)
+    print(y)
