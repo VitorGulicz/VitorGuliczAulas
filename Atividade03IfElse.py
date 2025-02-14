@@ -3,5 +3,5 @@ if num>=7:
     print("Aluno aprovado")
 else:
     if num>=5:
-        print("Aluno reprovado")
-    print("Aluno em recuperação")
+        print("Aluno em recuperação")
+    print("Aluno reprovado") 
