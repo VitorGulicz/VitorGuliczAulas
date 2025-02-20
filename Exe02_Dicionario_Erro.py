@@ -3,7 +3,7 @@ vendas_tecnologias={"Iphone":15000,"Samsung Galaxy":12000,"Tv samsung":10000,"PS
 livro=mais_vendidos["livros"]
 #Uso do get para acessar o valor
 
-print(mais_vendidos.get("geladeiras"))
+#print(mais_vendidos.get("geladeiras"))
 
 #Uso de chaves para acessar o valor
 
